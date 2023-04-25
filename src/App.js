@@ -206,10 +206,6 @@ function App() {
                     ReactJS.{" "}
                   </li>
                   <li>Cut layout from Figma design.</li>
-                  <li>
-                    Knowledge of cross-browser compatibility and responsive web
-                    design
-                  </li>
                 </ul>
                 <br />
                 <h1>Experience</h1>
