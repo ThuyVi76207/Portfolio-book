@@ -24,3 +24,11 @@ code {
   padding: 0;
   box-sizing: border-box;
 }
+
+@media screen and (max-width: 768px) {
+  body {
+    white-space: nowrap;
+    overflow-x: auto;
+    overflow-y: auto;
+  }
+}
