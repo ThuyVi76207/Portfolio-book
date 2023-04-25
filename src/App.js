@@ -132,8 +132,14 @@ function App() {
 
                 <ul className="list-project">
                   <li>
-                    Link Github:
-                    https://github.com/ThuyVi76207/ReactJS-CMS-Ticket-Sale_App
+                    Link Github:{" "}
+                    <a
+                      href="https://github.com/ThuyVi76207/ReactJS-CMS-Ticket-Sale_App"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      https://github.com/ThuyVi76207/ReactJS-CMS-Ticket-Sale_App
+                    </a>
                   </li>
                   <li>This is sale ticket manager website</li>
                   <li>
@@ -168,7 +174,14 @@ function App() {
 
                 <ul className="list-project">
                   <li>
-                    Link Github: https://github.com/ThuyVi76207/E-commerec
+                    Link Github:{" "}
+                    <a
+                      href="https://github.com/ThuyVi76207/E-commerec"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      https://github.com/ThuyVi76207/E-commerec
+                    </a>
                   </li>
                   <li>This is Sales Manager website</li>
                   <li>
@@ -254,9 +267,25 @@ function App() {
                 <h1>HEALTH CARE WEBSITE</h1>
 
                 <ul className="list-project">
-                  <li>Link website: https://health-care-it.vercel.app/</li>
                   <li>
-                    Link Github: https://github.com/ThuyVi76207/HealthCareIT
+                    Link website:{" "}
+                    <a
+                      href="https://health-care-it.vercel.app/"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      https://health-care-it.vercel.app/
+                    </a>
+                  </li>
+                  <li>
+                    Link Github:{" "}
+                    <a
+                      href="https://github.com/ThuyVi76207/HealthCareIT"
+                      rel="noopener noreferrer"
+                      target="_blank"
+                    >
+                      https://github.com/ThuyVi76207/HealthCareIT
+                    </a>
                   </li>
                   <li>
                     The technology: HTML, SCSS, Javascript, ReactJS, NodeJS

@@ -265,6 +265,40 @@ img {
     font-size: 2rem;
 }
 
+@media screen and (max-width: 768px) {
+
+
+    .book-wrap {
+        height: 50rem;
+        padding: 0.5rem;
+    }
+
+    .book-page {
+
+        padding: 1rem;
+    }
+
+    .page-front, .page-back {
+        padding: 1rem;
+    }
+
+    .name {
+        font-size: 1.2rem;
+    }
+
+    .introduce {
+        font-size: 1.1rem;
+    }
+
+    h3 {
+        font-size: 1.1rem;
+    }
+
+    h1 {
+
+        font-size: 1.4rem;
+    }
+}
 
 /*Animation*/
 
