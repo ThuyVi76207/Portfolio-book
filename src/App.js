@@ -5,6 +5,7 @@ import hcare from "./asset/hcare.png";
 import cmsimg from "./asset/cms.jpg";
 import ecom from "./asset/ecommerce.jpg";
 import thanks from "./asset/thanks.png";
+import videohcare from "./asset/videohcare.mp4";
 
 function App() {
   useEffect(() => {
@@ -252,7 +253,10 @@ function App() {
             </div>
             <div className="page-back">
               <div className="wrap-content">
-                <img width={"100%"} height={"auto"} src={hcare} alt="" />
+                {/* <img width={"100%"} height={"auto"} src={hcare} alt="" /> */}
+                <video width={"100%"} height={"auto"} controls>
+                  <source src={videohcare} type="video/mp4" />
+                </video>
                 <a
                   href="https://github.com/ThuyVi76207/HealthCareIT"
                   target="_blank"
